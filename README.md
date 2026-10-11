@@ -27,9 +27,44 @@ I am a highly motivated computer engineering student at the **National Universit
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Certifications**  
-[![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#) *(Click my Credly link below for live badges)*
+### 🏆 Certifications
 
+<div align="left">
+  <!-- Cisco CCNA: Introduction to Networks -->
+  <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="110" alt="CCNA ITN">
+  </a>
+  
+  <!-- Cisco CCNA: Switching, Routing, and Wireless Essentials -->
+  <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
+    <img src="https://images.credly.com/size/160x160/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" width="110" alt="CCNA SRWE">
+  </a>
+
+  <!-- Cisco CCNA: Enterprise Networking, Security, and Automation -->
+  <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
+    <img src="https://images.credly.com/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="110" alt="CCNA ENSA">
+  </a>
+
+  <!-- Cisco / Additional Credly Badge -->
+  <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
+    <img src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" width="110" alt="Credly Certification">
+  </a>
+
+  <!-- AWS Cloud Quest: Cloud Practitioner -->
+  <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
+    <img src="https://images.credly.com/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="110" alt="AWS Cloud Quest: Cloud Practitioner">
+  </a>
+
+  <!-- AWS Certified Cloud Practitioner -->
+  <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner">
+  </a>
+
+  <!-- IBM Artificial Intelligence Fundamentals -->
+  <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
+    <img src="https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" width="110" alt="IBM Artificial Intelligence Fundamentals">
+  </a>
+</div>
 ---
 
 ### 🚀 Highlighted Projects
