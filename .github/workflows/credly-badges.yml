@@ -1,0 +1,16 @@
+name: Update Credly Badges
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Rulează automat în fiecare noapte
+  workflow_dispatch:    # Îți permite să-l rulezi și manual la nevoie
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update Credly Badges
+        uses: abhisheknaiidu/credly-badge-github-action@v1.5
+        with:
+          credly-user: 'USERNAME-UL-TAU-CREDLY'
