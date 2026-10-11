@@ -29,6 +29,7 @@ I am a highly motivated computer engineering student at the **National Universit
 
 ### 🏆 Certifications
 
+#### 🌐 Cisco Networking
 <div align="left">
   <!-- Cisco CCNA: Introduction to Networks -->
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
@@ -44,10 +45,15 @@ I am a highly motivated computer engineering student at the **National Universit
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
     <img src="https://images.credly.com/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="110" alt="CCNA ENSA">
   </a>
+</div>
 
-  <!-- Cisco / Additional Credly Badge -->
+<br>
+
+#### ☁️ Amazon Web Services (AWS)
+<div align="left">
+  <!-- AWS Cloud Quest: Generative AI Practitioner -->
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
-    <img src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" width="110" alt="Credly Certification">
+    <img src="https://images.credly.com/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" width="110" alt="AWS Gen AI Practitioner">
   </a>
 
   <!-- AWS Cloud Quest: Cloud Practitioner -->
@@ -59,7 +65,12 @@ I am a highly motivated computer engineering student at the **National Universit
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner">
   </a>
+</div>
 
+<br>
+
+#### 🤖 IBM SkillsBuild
+<div align="left">
   <!-- IBM Artificial Intelligence Fundamentals -->
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
     <img src="https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" width="110" alt="IBM Artificial Intelligence Fundamentals">
@@ -96,8 +107,8 @@ I am a highly motivated computer engineering student at the **National Universit
 ### 🧩 LeetCode Progress
 
 <div align="center">
-  <a href="https://leetcode.com/Denis372">
-    <img src="https://leetcard.jacoblin.cool/Denis372?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats">
+  <a href="https://leetcode.com/Denis372" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Denis372?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats with Heatmap">
   </a>
 </div>
 
