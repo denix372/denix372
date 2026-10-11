@@ -141,4 +141,3 @@ Creative and hard-working computer science student at the **National University 
 </div>
 
 
-[![Duolingo](https://img.shields.io/badge/Duolingo-Streak%20Active-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com)
