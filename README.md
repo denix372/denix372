@@ -1,13 +1,13 @@
 # Hi, I'm Denis! 👋
 
-### 👨‍💻 Computer Engineering Student | Software Developer & Tech Enthusiast
+### 👨‍💻 Computer Science Student | Platform Software Engineer Enthusiast
 
-I am a highly motivated computer engineering student at the **National University of Science and Technology Politehnica Bucharest (ACS)**. I have a strong foundation in computer science fundamentals, from low-level system programming and hardware architecture to high-level functional programming, scripting, and web development. I enjoy tackling complex algorithmic challenges and building efficient, scalable software.
+Creative and hard-working computer science student at the **National University of Science and Technology Politehnica Bucharest (ACS)**. I have a strong interest in game theory and machine learning, alongside 3 years of hands-on experience in programming and building complex projects in Linux environments. I am constantly looking to leverage my algorithmic background in a stimulating, multidisciplinary team as a Platform Software Engineer.
 
 - 🎓 **Currently studying:** B.Sc. in Automatics and Computer Science
 - 🏫 **Teaching:** Undergraduate Teaching Assistant for the **Use of Operating Systems (USO)** course
-- 🌱 **Currently focusing on:** Advanced Data Structures, C/C++ System Architectures, and full-stack software development
-- 🏅 **Recent Activity:** Security Summer School 2025, Unikraft Summer School, and IP Workshop (IoT)
+- 🌱 **Currently focusing on:** Advanced C/C++ architectures, Networking Protocols, and IPC mechanisms
+- 🏅 **Recent Activity:** Security Summer School 2025, Unikraft Summer School, and IP Workshop (IoT track)
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/denis-baran-74807a3b4) or [denix372@gmail.com](mailto:denix372@gmail.com)
 
 ---
@@ -23,12 +23,13 @@ I am a highly motivated computer engineering student at the **National Universit
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash/Shell](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%20/%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Math, Functional & Hardware**  
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Octave](https://img.shields.io/badge/Octave-0255A5?style=for-the-badge&logo=octave&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge)
 ![Verilog](https://img.shields.io/badge/Verilog-005090?style=for-the-badge)
 
 **Frameworks, Tools & Environments**  
@@ -37,6 +38,18 @@ I am a highly motivated computer engineering student at the **National Universit
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
+---
+
+### 🚀 Highlighted Projects
+
+* 🌐 **Network Dataplane Router:** Developed a functional network router in pure C, implementing core routing protocols and packet manipulation (IPv4 forwarding, ARP request/reply generation, and ICMP messaging) directly at the data link and network layers.
+* ⚙️ **LPC-Service-Dispatcher:** Built a C++17 IPC dispatcher using Unix Named Pipes (FIFOs) for low-latency Local Procedure Calls. Features high-concurrency routing with Scatter/Gather I/O (`writev`) and a payload security layer to block shellcode.
+* 🕹️ **Pico-Game-Arcade:** MicroPython game launcher for the Raspberry Pi Pico. Implemented a navigable menu using physical buttons to launch games like Snake and Flappy Bird, featuring dynamic memory management (`gc`).
+* ♟️ **Java Chess Engine:** Modular Java 17 Chess engine and Swing GUI built on OOP and SOLID principles. Utilized Strategy, Factory, and Observer design patterns alongside JSON-based state persistence.
+* 🌳 **Huffman-Multi-Tree:** C data system utilizing Min-Heaps for Huffman Tree construction. Supports full data compression/decompression and advanced pathfinding operations (LCA).
+* 🧠 **Numerical-Methods & ML:** Built Octave algorithms for Markov chain modeling, linear regression (gradient descent), and a custom neural network for MNIST digit classification from scratch.
+* 📅 **Daily-Planner:** Real-time full-stack platform using Flask, MySQL, and Socket.IO for live task management and bi-directional messaging, secured via JWT authentication.
+* 🏗️ **BPC-2026-Hex-Network-Optimizer:** C++ algorithmic solution for the Bitdefender Programming Contest. Simulated and optimized a dynamic data center network on a hexagonal grid using BFS graph pathfinding and custom greedy heuristics.
 ### 🏆 Certifications
 
 #### 🌐 Cisco Networking
