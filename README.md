@@ -139,3 +139,6 @@ Creative and hard-working computer science student at the **National University 
 <div align="center">
   <i>"Creative, adaptable, and detail-oriented—building the future one line of code at a time."</i>
 </div>
+
+
+[![Duolingo](https://img.shields.io/badge/Duolingo-Streak%20Active-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com)
