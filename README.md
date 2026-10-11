@@ -1,14 +1,14 @@
-# Hi there, I'm Denis-Constantin Băran! 👋
+# Hi, I'm Denis! 👋
 
-### 👨‍💻 Computer Engineering Student | AI, Machine Learning & Computer Vision Enthusiast
+### 👨‍💻 Computer Engineering Student | Software Developer & Tech Enthusiast
 
-I am a highly motivated computer engineering student at the **National University of Science and Technology Politehnica Bucharest (ACS)**. I possess a strong algorithmic background and a deep passion for building intelligent systems, fundamental neural networks, and data processing algorithms. 
+I am a highly motivated computer engineering student at the **National University of Science and Technology Politehnica Bucharest (ACS)**. I have a strong foundation in computer science fundamentals, from low-level system programming and hardware architecture to high-level functional programming, scripting, and web development. I enjoy tackling complex algorithmic challenges and building efficient, scalable software.
 
-* 🎓 **Currently studying:** B.Sc. in Automatics and Computer Science
-* 🏫 **Teaching:** Undergraduate Teaching Assistant for the **Use of Operating Systems (USO)** course
-* 🌱 **Currently focusing on:** Deepening my knowledge in PyTorch, NLP/Vision ecosystems, and advanced C/C++ architectures
-* 🏅 **Recent Activity:** Security Summer School 2025, Unikraft Summer School, and IP Workshop (IoT)
-* 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/denis-baran-74807a3b4) or [denix372@gmail.com](mailto:denix372@gmail.com)
+- 🎓 **Currently studying:** B.Sc. in Automatics and Computer Science
+- 🏫 **Teaching:** Undergraduate Teaching Assistant for the **Use of Operating Systems (USO)** course
+- 🌱 **Currently focusing on:** Advanced Data Structures, C/C++ System Architectures, and full-stack software development
+- 🏅 **Recent Activity:** Security Summer School 2025, Unikraft Summer School, and IP Workshop (IoT)
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/denis-baran-74807a3b4) or [denix372@gmail.com](mailto:denix372@gmail.com)
 
 ---
 
@@ -17,15 +17,25 @@ I am a highly motivated computer engineering student at the **National Universit
 **Languages & Core**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Octave](https://img.shields.io/badge/Octave-0255A5?style=for-the-badge&logo=octave&logoColor=white)
+![Bash/Shell](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Frameworks & Technologies**  
+**Math, Functional & Hardware**  
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Octave](https://img.shields.io/badge/Octave-0255A5?style=for-the-badge&logo=octave&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-005090?style=for-the-badge)
+
+**Frameworks, Tools & Environments**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🏆 Certifications
 
