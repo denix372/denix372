@@ -99,6 +99,7 @@ Creative and hard-working computer science student at the **National University 
     <img src="https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" width="110" alt="IBM Artificial Intelligence Fundamentals">
   </a>
 </div>
+
 ---
 
 ### 🚀 Highlighted Projects
