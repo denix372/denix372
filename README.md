@@ -100,6 +100,8 @@ Creative and hard-working computer science student at the **National University 
   </a>
 </div>
 
+<br>
+
 #### ☁️ Google Cloud
 <div align="left">
   <!-- Build Google Cloud Infrastructure for AWS Professionals -->
@@ -115,6 +117,11 @@ Creative and hard-working computer science student at the **National University 
   <!-- Build Infrastructure with Terraform on Google Cloud -->
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
     <img src="https://cdn.qwiklabs.com/V5hy7oPDiKov68Q4kTcuuA%2BMHNMX3Z0my4mncKPPGvY%3D" width="160" alt="Build Infrastructure with Terraform on Google Cloud Skill Badge">
+  </a>
+
+<!-- Explore Generative AI with the Vertex AI Gemini API -->
+  <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
+    <img src="https://cdn.qwiklabs.com/Ep488ur7qy53c%2Fwb0D1OS%2BeWzeTrNgXPu2ZbDDurm3E%3D" width="160" alt="Explore Generative AI with the Vertex AI Gemini API Skill Badge">
   </a>
 </div>
 
