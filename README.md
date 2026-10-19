@@ -106,10 +106,14 @@ Creative and hard-working computer science student at the **National University 
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/7a2bc677-846d-4b0b-85a3-b56e0a0f9452/image.png" width="110" alt="Build Google Cloud Infrastructure for AWS Professionals Skill Badge">
   </a>
+
+  <!-- Manage Kubernetes in Google Cloud -->
+  <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/7a2bc677-846d-4b0b-85a3-b56e0a0f9452/image.png" width="110" alt="Manage Kubernetes in Google Cloud Skill Badge">
+  </a>
 </div>
 
 <br>
----
 
 ### 🚀 Highlighted Projects
 
