@@ -111,9 +111,12 @@ Creative and hard-working computer science student at the **National University 
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
     <img src="https://cdn.qwiklabs.com/kv48x9UK42Fqn4QPSyXlXjHwTf75c9YtMBQb2kbVJgc%3D" width="160" alt="Manage Kubernetes in Google Cloud Skill Badge">
   </a>
-</div>
 
-<br>
+  <!-- Build Infrastructure with Terraform on Google Cloud -->
+  <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
+    <img src="https://cdn.qwiklabs.com/V5hy7oPDiKov68Q4kTcuuA%2BMHNMX3Z0my4mncKPPGvY%3D" width="160" alt="Build Infrastructure with Terraform on Google Cloud Skill Badge">
+  </a>
+</div>
 
 <br>
 
