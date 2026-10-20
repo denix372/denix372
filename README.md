@@ -121,7 +121,7 @@ Creative and hard-working computer science student at the **National University 
 
   <!-- Explore Generative AI with the Vertex AI Gemini API -->
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
-    <img src="https://cdn.qwiklabs.com/Ep488ur7qy53c%2Fwb0D1OS%2BeWzeTrNgXPu2ZbDDurm3E%3D" width="160" alt="Explore Generative AI with the Vertex AI Gemini API Skill Badge">
+    <img src="" width="160" alt="Explore Generative AI with the Vertex AI Gemini API Skill Badge">
   </a>
 
   <!-- Derive Insights from BigQuery Data -->
