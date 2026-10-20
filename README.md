@@ -108,7 +108,7 @@ Creative and hard-working computer science student at the **National University 
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
     <img src="https://cdn.qwiklabs.com/xkhBYIFqjTNxQfdaHUTQs%2BixUnkzTd5%2FDbgHmmWAEoc%3D" width="160" alt="Build Google Cloud Infrastructure for AWS Professionals Skill Badge">
   </a>
-
+  
   <!-- Manage Kubernetes in Google Cloud -->
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
     <img src="https://cdn.qwiklabs.com/kv48x9UK42Fqn4QPSyXlXjHwTf75c9YtMBQb2kbVJgc%3D" width="160" alt="Manage Kubernetes in Google Cloud Skill Badge">
@@ -119,13 +119,18 @@ Creative and hard-working computer science student at the **National University 
     <img src="https://cdn.qwiklabs.com/V5hy7oPDiKov68Q4kTcuuA%2BMHNMX3Z0my4mncKPPGvY%3D" width="160" alt="Build Infrastructure with Terraform on Google Cloud Skill Badge">
   </a>
 
-<!-- Explore Generative AI with the Vertex AI Gemini API -->
+  <!-- Explore Generative AI with the Vertex AI Gemini API -->
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
     <img src="https://cdn.qwiklabs.com/Ep488ur7qy53c%2Fwb0D1OS%2BeWzeTrNgXPu2ZbDDurm3E%3D" width="160" alt="Explore Generative AI with the Vertex AI Gemini API Skill Badge">
   </a>
+
+  <!-- Derive Insights from BigQuery Data -->
+  <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
+    <img src="https://cdn.qwiklabs.com/Gka1cDvFoUpDQmKdCHIM1r5x7%2FOVJuNhrpmYHqRmRRo%3D" width="160" alt="Derive Insights from BigQuery Data Skill Badge">
+  </a>
 </div>
 
-<br>
+</br>
 
 ### 🚀 Highlighted Projects
 
