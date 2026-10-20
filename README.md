@@ -101,7 +101,7 @@ Creative and hard-working computer science student at the **National University 
  
   <!-- IBM Getting Started with Generative AI -->
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/0889a0f2-f9c7-41db-bc68-b2e7f7dd0238/BadgeEmblem_GettingStartedWithGenerativeAI.png" width="110" alt="IBM Getting Started with Generative AI">
+    <img src="https://skills.yourlearning.ibm.com/api/v3/skills/images/9d0bbad4-bed7-477e-b249-4b87e82462bc.png?type=credential" width="110" alt="IBM Getting Started with Generative AI">
   </a>
 </div>
 
