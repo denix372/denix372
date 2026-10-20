@@ -98,6 +98,11 @@ Creative and hard-working computer science student at the **National University 
   <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
     <img src="https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" width="110" alt="IBM Artificial Intelligence Fundamentals">
   </a>
+  &nbsp;&nbsp;
+  <!-- IBM Getting Started with Generative AI -->
+  <a href="https://www.credly.com/users/denis-baran/badges" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/0889a0f2-f9c7-41db-bc68-b2e7f7dd0238/BadgeEmblem_GettingStartedWithGenerativeAI.png" width="110" alt="IBM Getting Started with Generative AI">
+  </a>
 </div>
 
 <br>
